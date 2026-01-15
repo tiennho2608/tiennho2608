@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm TienTH</h1>
 <h3 align="center">AI Engineer | Machine Learning Enthusiast</h3>
 
-<img align="center" alt="Coding" width="400" src="animated-man-computer-coding.gif">
-
+<p align="center">
+  <img alt="Coding" width="400" src="animated-man-computer-coding.gif">
+</p>
 ---
 
 ### 📊 GitHub Stats
