@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TienTH</h1>
 <h3 align="center">I am an AI Engineer</h3>
 
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:75%;position:relative;"><iframe width="360" height="270" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/ahepcz"></iframe></div><p><a href="https://imgflip.com/gif/ahepcz">via Imgflip</a></p></div>
+<img align="right" alt="coding" width="400" src="https://imgflip.com/gif/ahepcz">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiennho2608&label=Profile%20views&color=0e75b6&style=flat" alt="tiennho2608" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Design Partterns**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tiennho2608](my bio)
+- 👨‍💻 All of my projects are available at [tiennho2608](my bio)
 
 - 💬 Ask me about **Python**
 
