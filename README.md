@@ -106,7 +106,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api?username=tiennho2608](https://github-stats-alpha.vercel.app/api?username=tiennho2608)" alt="tiennho2608" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=tiennho2608" alt="tiennho2608" />
 </p>
 
 <p align="center">
