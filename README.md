@@ -106,7 +106,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiennho2608&show_icons=true&locale=en" alt="tiennho2608" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiennho2608" alt="tiennho2608" />
 </p>
 
 <p align="center">
