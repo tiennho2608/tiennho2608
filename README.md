@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TienTH</h1>
 <h3 align="center">I am an AI Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=VQPaxj8k&id=E9808D10F78A18068A7C3187317F3D2935CF81B7&thid=OIP.VQPaxj8kpvZ-xgw9GFe7OgHaFj&mediaurl=https%3A%2F%2Fgifdb.com%2Fimages%2Fhigh%2Fanimated-man-computer-coding-nae6mec378lsg1i3.gif&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.5503dac63f24a6f67ec60c3d1857bb3a%3Frik%3Dt4HPNSk9fzGHMQ%26pid%3DImgRaw%26r%3D0&exph=360&expw=480&q=animated+coding+gif&FORM=IRPRST&ck=A6DED9B7A3A5A7E5148E96CA7AA88E2D&selectedIndex=1&itb=0&cw=1721&ch=859&ajaxhist=0&ajaxserp=0">
+<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:75%;position:relative;"><iframe width="360" height="270" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/ahepcz"></iframe></div><p><a href="https://imgflip.com/gif/ahepcz">via Imgflip</a></p></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiennho2608&label=Profile%20views&color=0e75b6&style=flat" alt="tiennho2608" /> </p>
 
