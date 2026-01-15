@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm TienTH</h1>
 <h3 align="center">AI Engineer | Machine Learning Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="animated-man-computer-coding.gif">
+<img align="center" alt="Coding" width="400" src="animated-man-computer-coding.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tiennho2608&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+---
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-  </a>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=tiennho2608" alt="tiennho2608" />
 </p>
 
 ---
@@ -100,24 +98,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=tiennho2608" alt="tiennho2608" />
-</p>
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiennho2608&show_icons=true&locale=en&layout=compact" alt="tiennho2608" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiennho2608&" alt="tiennho2608" />
-</p>
-
----
 
 ### 📫 Connect with Me
 
