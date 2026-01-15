@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img alt="Coding" width="400" src="animated-man-computer-coding.gif">
+  <img alt="Coding" width="800" src="animated-man-computer-coding.gif">
 </p>
 ---
 
