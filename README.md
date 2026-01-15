@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TienTH</h1>
 <h3 align="center">I am an AI Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://imgflip.com/gif/ahepcz">
+<img align="right" alt="coding" width="400" src="./animated-man-computer-coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiennho2608&label=Profile%20views&color=0e75b6&style=flat" alt="tiennho2608" /> </p>
 
