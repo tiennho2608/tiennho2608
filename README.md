@@ -106,15 +106,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiennho2608&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiennho2608&show_icons=true&locale=en" alt="tiennho2608" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiennho2608&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiennho2608&show_icons=true&locale=en&layout=compact" alt="tiennho2608" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiennho2608&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiennho2608&" alt="tiennho2608" />
 </p>
 
 ---
